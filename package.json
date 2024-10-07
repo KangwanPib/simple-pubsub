@@ -1,0 +1,23 @@
+{
+  "name": "simple-pubsub",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tsc",
+    "start": "npm run build && node ./dist/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vendii-tech/simple-pubsub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vendii-tech/simple-pubsub/issues"
+  },
+  "homepage": "https://github.com/vendii-tech/simple-pubsub#readme",
+  "devDependencies": {
+    "typescript": "^5.6.2"
+  }
+}

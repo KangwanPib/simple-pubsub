@@ -1,0 +1,1 @@
+export const DEFAULT_LOWEST_STOCK = 3;
